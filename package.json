@@ -1,0 +1,13 @@
+{
+    "scripts": {
+        "start": "VITE"
+    },
+    "name": "name",
+    "description": "description",
+    "authors": "author",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {
+        "feather": "^0.0.6"
+    }
+}
